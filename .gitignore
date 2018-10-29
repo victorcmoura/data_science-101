@@ -104,7 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # Datasets
-.csv
-
-# Ignoring csvs for data science
-.csv
+data_sets/
